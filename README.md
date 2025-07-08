@@ -6,11 +6,13 @@ A smart lead scoring system that enriches and ranks raw B2B lead data based on t
 
 To design a lead quality pipeline that analyzes raw CSVs of B2B leads and produces a ranked, enriched output. The system helps teams:
 
-Prioritize outreach with confidence
+1 . Prioritize outreach with confidence
 
-Focus on credible leads
+2 . Focus on credible leads
 
-Cut noise from invalid or spammy data
+3 . Cut noise from invalid or spammy data
+
+
 
 
 
